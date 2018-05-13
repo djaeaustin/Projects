@@ -1,0 +1,7 @@
+Greetings,
+
+The reason that I am submitting my project III Bearmaps late is because I was struggling to figure out how to implement A* for Part 3. I figured it out though.
+
+Sincerely,
+
+Austin Chiang
